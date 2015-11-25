@@ -2,8 +2,8 @@
 layout:       post
 author:       diego
 title:        "Marketing Buzzwords: Las palabras de moda que amamos odiar"
-image:        http://localhost:9000/img/woman-with-megaphone.jpg
-preview:      http://localhost:9000/img/woman-with-megaphone-small.jpg
+image:        http://diegojmaldonado.com/img/woman-with-megaphone.jpg
+preview:      http://diegojmaldonado.com/img/woman-with-megaphone-small.jpg
 date:         2015-11-19 22:52:13
 category:     [Marketing]
 tags:         [Marketing, Funny]
@@ -22,7 +22,7 @@ Lo admito, en más de una oportunidad me encontré usando una o varias de estas 
 El problema surge cuando producto del sobreuso y mal uso de estos recursos, conceptos como el de **Big Data** pierden su significado. Ojo! no es que sea un purista, pero es que incluso existe un juego llamado [Buzzword Bingo][1].
 
 <div class="screen-at-85">
-<img src="http://localhost:9000/img/dilbert_buzzword_bingo.jpg" alt="">
+<img src="http://diegojmaldonado.com/img/dilbert_buzzword_bingo.jpg" alt="">
 </div>
 
 Pero muy a pesar de ello *-creo-* sigue siendo útil entender lo que significan para saber cuando y como usarlas para que en la próxima reunión no nos convirtamos en el personaje principal de la campaña de Gladiator.
