@@ -1,0 +1,27 @@
+# Grunt handles images and assets.
+exclude: ['img', 'css', 'js', 'fonts',
+          '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico']
+
+# _config.build.yml sets future and show_drafts to false on `grunt build`
+future: true
+show_drafts: true
+
+permalink: '/blog/:title'
+paginate: 5
+paginate_path: '/page:num'
+
+# Markdown library
+markdown: kramdown
+
+# Site settings
+title: Blog • Diego J. Maldonado
+author: Diego J. Maldonado
+description: Marketing, Mobile, Tendencias, Desarrollo Mobile, Diseño y más por @diegojmaldonado desde Córdoba, Argentina.
+avatar: https://avatars3.githubusercontent.com/u/2761838?v=3&s=460
+url: "http://diegojmaldonado.com" # the base hostname & protocol for the site
+baseurl: "" # the subpath of the site
+email: diegojmaldonado@gmail.com
+
+# Tracking variables
+disqus: diegojmaldonado
+google_analytics: UA-45205112-1

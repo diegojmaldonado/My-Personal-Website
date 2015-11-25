@@ -1,0 +1,83 @@
+---
+layout:       post
+author:       diego
+title:        "Marketing Buzzwords: Las palabras de moda que amamos odiar"
+image:        http://localhost:9000/img/woman-with-megaphone.jpg
+preview:      http://localhost:9000/img/woman-with-megaphone-small.jpg
+date:         2015-11-19 22:52:13
+category:     [Marketing]
+tags:         [Marketing, Funny]
+keywords:     [IOS; Marketing; Buzzwords; Marketing Digital; Reuniones, Meetings, Mercadotecnia; Publicidad; Agencia; Chiste; Autocrítica en la Agencia]
+---
+
+La industria del marketing es conocida por su vasto y efímero vocabulario compuesto por palabras y frases que rápidamente se convierten en una expresión de moda. Esta jerga recibe el nombre de "Buzzwords", que no son más que palabras pegadizas, *principalmente, de procedencia anglosajona* y que sirven como atajos conceptuales. Un ejemplo? Buzzwords.
+
+Los marketineros están constantemente hablando de: **Awareness!, Storytelling! y Growth Hacking!**, pero alguna de estas palabras significa algo? Honestamente no, o no para mí.
+
+Una de mis favoritas: **Engagement**, en serio? que significa? descargas? tiempo de permanencia? retorno? comentarios? cantidad de veces que se comparte contenido en redes sociales? Es una combinación de algunas o todas esas cosas? Ok, bien, lo entiendo, si es una lista de metricas que necesitan ser medidas y analizadas, por favor simplemente podrían proveenos de ese listado? Pedir "metricas de Engagement" es como ir a un restaurant y cuando nos preguntan que queremos cenar, simplemente responder "comida". Por favor, especificidad.
+
+## Un mal necesario
+Lo admito, en más de una oportunidad me encontré usando una o varias de estas palabras en reuniones en las que me sentí ligeramente intimidado y quería parecer mucho más inteligente de lo que en verdad soy. Creo que todos alguna vez estuvimos en esa situación. Y aunque muchas de estas palabras de moda pueden transmitir un mensaje de conocimiento, entendimiento y relevancia en la industria del MKT, muy a menudo carecen de sustancia.
+
+El problema surge cuando producto del sobreuso y mal uso de estos recursos, conceptos como el de **Big Data** pierden su significado. Ojo! no es que sea un purista, pero es que incluso existe un juego llamado [Buzzword Bingo][1].
+
+<div class="screen-at-85">
+<img src="http://localhost:9000/img/dilbert_buzzword_bingo.jpg" alt="">
+</div>
+
+Pero muy a pesar de ello *-creo-* sigue siendo útil entender lo que significan para saber cuando y como usarlas para que en la próxima reunión no nos convirtamos en el personaje principal de la campaña de Gladiator.
+
+<div class="video-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch_popup?v=gWVZTpr-I_4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## "Brillantina para mí":
+
+##### Big Data:
+
+
+##### Content is King:
+
+
+##### Customer Journey:
+
+
+##### Disruptor:
+
+
+##### Emoji:
+
+
+##### Gamification:
+
+
+##### Guru / Ninja / Grand Master / RockStar:
+
+
+##### Influencer:
+
+
+##### Millennials:
+
+
+##### Omnichannel Marketing:
+
+
+##### Plataforma:
+
+
+##### Retargeting, Remarketing:
+
+
+##### ROI, Revenue y demás términos financieros:
+
+
+##### Social Commerce:
+
+
+##### SoLoMo:
+
+
+
+
+[1]: http://www.bullshitbingo.net/cards/buzzword/

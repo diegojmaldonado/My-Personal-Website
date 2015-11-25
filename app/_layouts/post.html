@@ -1,0 +1,49 @@
+---
+layout: default
+comments: true
+---
+
+<header class="intro-header" style="background-image:url({{ page.image }}); background-attachment: fixed;">
+      <div class="container">
+        <div class="col-lg-12 col-md-12">
+          <div class="page-heading">
+            {% capture difference %}{{ page.title | size | minus:40 }}{% endcapture %}
+            {% unless difference contains '-' %}
+            <h1>{{ page.title | truncate: 75 }}</h1>
+            {% else %}
+            <h1>{{ page.title }}</h1>
+            {% endunless %}
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <article>
+      <div class="container-fluid">
+        {% assign author = site.data.authors[page.author] %}
+        {% if author %}
+        <p class="author"><b>Por: {{ author.name }}</b></p>
+        <p class="author"><i>{{ author.bio }}</i></p>
+        {% endif %}
+
+        <hr class="section-fancy-divider"></hr>
+      </div>
+      {{ content }}
+
+      <div class="row share">
+        <div class="col-sm-4 col-md-4 col-lg-4">
+        </div>
+        <div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://diegojmaldonado.com{{post.url}}&title={{post.title}}&summary={{post.content|strip_html|truncatewords:35}}&source=http://diegojmaldonado.com">
+            <img src="{{ site.baseurl }}/img/assets/glasses.svg" height="128" width="128"></img>
+          </a>
+        </div>
+        <div class="col-xs-6 col-sm-3 col-md-2 col-lg-2">
+          <a href="https://twitter.com/share?&text={{post.title}}&url=http://diegojmaldonado.com{{post.url}}&via=diegojmaldonado">
+            <img src="{{ site.baseurl }}/img/assets/heart.svg" height="128" width="128"></img>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>

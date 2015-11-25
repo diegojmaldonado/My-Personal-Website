@@ -1,0 +1,21 @@
+/* diegojmaldonado.com.ar */
+
+
+/* ABOUT */
+
+  Author:         Diego Javier Maldonado
+  About:          I'm a Digital Marketing Professional, UX lover & IOS Developer who is currently leading a mobile development team.
+  Twitter:        @diegojmaldonado
+  Location:       Córdoba, Córdoba ARGENTINA
+
+
+/* SITE */
+
+  Language:       Spanish
+  Built with:     Jekyll <http://jekyllrb.com>
+                  Atom <https://atom.io>
+                  Bootstrap <http://getbootstrap.com/>
+                  Adobe Creative Suite
+                  Grunt <http://gruntjs.com>
+Optimized with:
+                  https://developers.google.com/speed/pagespeed/insights

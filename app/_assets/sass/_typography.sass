@@ -1,0 +1,79 @@
+/*!
+ * Typography (headings, paragraphs, lists, and inline elements)
+ * Diego J. Maldonado
+ * Copyright 2015
+ * Licensed under Apache 2.0
+
+/*
+ *    Typography
+ *==========================================================================
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, %vertical-rhythm
+  text-rendering: optimizeLegibility
+  margin-bottom: $spacing-unit / 2
+
+h1, h2, h3, h4, h5, h6
+  font-family: $caption-font
+
+p
+  line-height: $line-height
+  margin: 30px 0
+
+p a
+  color: gray
+
+  &:hover
+    color: $highlighter-color
+    text-decoration: none
+
+b, strong
+  font-family: $bold-font
+
+i
+  font-family: $italic-font
+  font-weight: 200
+
+blockquote, q, cite
+  padding-right: 0px
+  padding-left: 0px
+  border: none
+  font-family: $italic-font
+  font-weight: 200
+  font-size: $font-size + 10
+  color: $light-gray
+
+.author
+  margin: 0px 0
+  font-size: $font-size + 2
+  text-align: center
+
+.main-posts
+  p
+    margin: 10px 0px
+    font-family: $caption-font
+    // font-size: 20px
+    font-size: 14px
+    font-weight: 300
+    letter-spacing: -0.5px
+    color: $light-gray
+
+  h2
+    margin-top: 30px
+    margin-bottom: 0px
+    font-family: $heading-font
+    font-size: 36px
+    font-weight: 400
+    color: $black
+
+    a
+      text-decoration: none
+      color: $black
+
+    &:hover
+      color: $highlighter-color
+      text-decoration: none
+
+  h6
+    font-family: $base-font
+    font-style: italic
+    color: $gray

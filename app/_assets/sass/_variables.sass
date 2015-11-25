@@ -1,0 +1,69 @@
+/*!
+ * Base (global setup)
+ * Diego J. Maldonado
+ * Copyright 2015
+ * Licensed under Apache 2.0
+
+/*
+ * Typography related variables
+ * ==========================================================================
+
+$base-font-ideal: "freight_text_prolight"
+$base-font-fallback: Georgia, Cambria, "Times New Roman", Times, serif
+$heading-font-ideal: "bebas_neuebold"
+$heading-font-fallback: Impact, Charcoal, sans-serif
+$caption-font-ideal: "Open Sans", "Helvetica Neue"
+$caption-font-ligth-ideal: "open_sanslight"
+$caption-font-fallback: Helvetica, Arial, sans-serif
+$bold-font-ideal: "freight_text_probold"
+$bold-font-fallback: Georgia, Cambria, "Times New Roman", Times, serif
+$italic-font-ideal: "freight_text_prolight_italic"
+$italic-font-fallback: Georgia, Cambria, "Times New Roman", Times, serif
+$post-title-ideal: "freight_text_probook"
+$post-title-fallback: Georgia, Cambria, "Times New Roman", Times, serif
+
+$base-font: unquote($base-font-ideal + "," + $base-font-fallback)
+$heading-font: unquote($heading-font-ideal + "," + $heading-font-fallback)
+$caption-font: unquote($caption-font-ideal + "," + $caption-font-fallback)
+$bold-font: unquote($bold-font-ideal + "," + $bold-font-fallback)
+$italic-font: unquote($italic-font-ideal + "," + $italic-font-fallback)
+$post-title: unquote(serif + "," + $post-title-ideal + "," + $post-title-fallback)
+$caption-font-ligth: unquote($caption-font-ligth-ideal + "," + $caption-font-fallback)
+
+$heading-font-title: $heading-font
+$caption-font-title: $caption-font
+$nav-font: $caption-font
+
+$font-size: 20px
+$spacing-unit: 0.01rem
+$line-height: 1.4
+
+$border-radius: 5px
+
+/*
+ * Paths
+ * ==========================================================================
+
+$assets_path: "http://localhost:9000/img"
+
+/*
+ * Form variables
+ * ==========================================================================
+
+// $form-background              : mix($white, $border-color, 50%);
+// $form-border-color            : $border-color;
+// $form-border-color-hover      : mix($black, $border-color, 10%);
+// $form-border-color-focus      : $primary-color;
+// $form-border-radius           : $border-radius;
+// $form-box-shadow              : inset 0 1px 3px hsla(0, 0%, 0%, 0.06);
+// $form-box-shadow-focus        : $form-box-shadow, 0 0 5px rgba(mix($black, $form-border-color-focus, 10%), 0.7);
+// $form-font-family             : $base-font;
+// $form-font-size               : $doc-font-size;
+
+/*
+ * Visual sitemap
+ * ==========================================================================
+
+$sitemap-primary-color: mix($white, $primary-color, 60%)
+$sitemap-sub-color: mix($white, $primary-color, 80%)
+$sitemap-sub-sub-color: mix($white, $primary-color, 90%)

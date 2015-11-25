@@ -1,0 +1,62 @@
+/*!
+ * Patterns (buttons, badges, table of contents, etc.)
+ * Diego J. Maldonado
+ * Copyright 2015
+ * Licensed under Apache 2.0
+
+/*
+ * Override Boostrap
+ * ==========================================================================
+
+.col-xs-12
+  @media screen and (max-width: 1024px)
+    padding: 0px
+
+.row.no-gutter
+  margin-left: 0
+  margin-right: 0
+  [class*='col-']
+    &:not(:first-child), &:not(:last-child)
+      padding-right: 0
+      padding-left: 0
+
+/*
+ * Buttons
+ * ==========================================================================
+
+.btn
+  font-family: $caption-font
+  white-space: normal
+  border-radius: 25px
+  min-height: 50px
+  padding: 6px 24px
+  &:focus, &:active:focus, &.active:focus
+    outline: 0 none
+
+.btn-red
+  background: none
+  color: $red
+  border: 1px solid $red
+  &:hover, &:focus, &:active, &.active
+    background: $red
+    color: $white
+    border: 1px solid $light-red
+
+.btn-green
+  background: none
+  color: $green
+  border: 1px solid $green
+  &:hover, &:focus, &:active, &.active
+    background: $green
+    color: $white
+    border: 1px solid $light-green
+
+.btn-newsletter
+  margin-top: 20px
+  background: none
+  color: $white
+  border: 2px solid $fluor-green
+  &:hover, &:focus, &:active, &.active
+    background: $fluor-green
+    color: $white
+    border: 2px solid $fluor-green

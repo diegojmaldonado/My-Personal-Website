@@ -1,0 +1,79 @@
+/*!
+ * Dynamic Gallery Grid
+ * Diego J. Maldonado
+ * Copyright 2015
+ * Licensed under Apache 2.0
+
+/*
+ *    Home
+ *==========================================================================
+
+.main-posts
+  padding-top: 75px
+  padding-bottom: 150px
+  background-image: url(#{$assets_path}/assets/noise.png)
+  background-repeat: repeat
+
+#grid[data-columns]::before
+  content: '3 .column.size-1of3'
+
+.column
+  float: left
+
+.size-1of3
+  width: 33.333%
+
+.panel
+  border: none
+  margin-bottom: 30px
+  -webkit-box-shadow: -7px 7px 8px 0px $black
+  -moz-box-shadow: -7px 7px 8px 0px $black
+  box-shadow: -7px 7px 8px 0px $black
+  -webkit-transition: margin 0.1s ease-out
+  -moz-transition: margin 0.1s ease-out
+  -o-transition: margin 0.1s ease-out
+  &:hover, &:focus, &:active, &.active
+    margin-top: -10px
+    margin-bottom: 40px
+    -webkit-box-shadow: -6px 10px 25px 0px $black
+    -moz-box-shadow: -6px 10px 25px 0px $black
+    box-shadow: -6px 10px 25px 0px $black
+    -webkit-transition: margin 0.1s ease-out
+    -moz-transition: margin 0.1s ease-out
+    -o-transition: margin 0.1s ease-out
+
+.panel-primary > .panel-heading
+  background-color: $light-black
+
+.panel-heading
+  padding: 0px
+  border: none
+
+.panel-body
+  // margin-bottom: 30px
+  padding-bottom: 50px
+  background-color: $super-light-gray
+
+@media screen and (max-width: 480px)
+  #columns[data-columns]::before
+    content: '1 .col-xs-12'
+
+@media screen and (min-width: 481px) and (max-width: 767px)
+  #columns[data-columns]::before
+    content: '2 .col-xs-6'
+
+@media screen and (min-width: 768px) and (max-width: 991px)
+  #columns[data-columns]::before
+    content: '2 .col-sm-6'
+
+@media screen and (min-width: 992px) and (max-width: 1919px)
+  #columns[data-columns]::before
+    content: '3 .col-md-4'
+
+@media screen and (min-width: 1920px) and (max-width: 9999px)
+  #columns[data-columns]::before
+    content: '4 .col-lg-3'
+
+/*
+ *    Marketing
+ *==========================================================================

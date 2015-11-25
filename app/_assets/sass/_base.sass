@@ -1,0 +1,66 @@
+/*!
+ * Base (global setup)
+ * Diego J. Maldonado
+ * Copyright 2015
+ * Licensed under Apache 2.0
+
+// NOTE:
+//  In the near future should implement a webfontloader por performance purposes
+//  example: https://github.com/typekit/webfontloader
+
+/*
+ *    Base
+ *==========================================================================
+
+body
+  font-family: $base-font
+  font-size: $font-size
+  letter-spacing: $spacing-unit
+  color: $text-color
+  background-color: $white
+
+img
+  margin: 0px
+  width: 100%
+
+// a
+//   color: $green
+//   text-decoration: none
+//   &:visited
+//     color: none
+//   &:hover
+//     color: none
+
+hr
+  width: 7px 0px
+  &.section-divider
+    display: block
+    width: 100px
+    margin: 50px auto
+    border: 0
+    border-top: 1px solid rgba(0, 0, 0, 0.15)
+  &.section-fancy-divider
+    margin: 50px auto
+    padding: 0
+    border: 1px solid #333333
+    color: #333333
+    text-align: center
+    max-width: 370px
+    &:after
+      content: "\f097"
+      font-family: "FontAwesome"
+      display: inline-block
+      position: relative
+      top: -0.7em
+      padding: 0 0.75em
+      background: white
+
+\::-moz-selection
+  color:inherit
+  text-shadow: none
+  background: $selection
+
+\::selection
+  color:inherit
+  text-shadow: none
+  background: $selection

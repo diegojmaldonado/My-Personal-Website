@@ -1,0 +1,117 @@
+/*!
+ * Article
+ * Diego J. Maldonado
+ * Copyright 2015
+ * Licensed under Apache 2.0
+
+/*
+ *    Article & About
+ *==========================================================================
+
+article, about
+  margin-top: 75px
+
+  h1, h2, h4
+    font-family: $heading-font-title
+
+  h3, h5
+    font-family: $caption-font-ligth
+    color: $light-gray
+    font-weight: 200
+
+  h6
+    font-family: $base-font
+
+  h1
+    font-size: 8px
+  h2
+    font-size: 54px
+  h3
+    font-size: 36px
+    letter-spacing: -2px
+  h4
+    font-size: 38px
+  h5
+    font-size: 24px
+    letter-spacing: -1px
+  h6
+    font-size: 26px
+
+  h1, h2, h3, h4, h5, h6, p, pre, ul, ol, dl,
+    padding-left: 24%
+    padding-right: 24%
+    list-style-position: inside
+    @media screen and (max-width: 768px)
+      padding-left: 7.5%
+      padding-right: 7.5%
+
+  ul, ol
+    margin-top: 15px
+    padding-left: 26%
+    padding-right: 24%
+    @media screen and (max-width: 768px)
+      padding-left: 12%
+      padding-right: 7.5%
+
+  .screen-at-100
+    padding-left: 0%
+    padding-right: 0%
+    list-style-position: inside
+    h1, h2, h3, h4, h5, h6,
+      margin-bottom: 30px
+    @media screen and (max-width: 768px)
+      padding-left: 0%
+      padding-right: 0%
+
+  .screen-at-85, .highlight
+    padding-left: 7.5%
+    padding-right: 7.5%
+    list-style-position: inside
+    h1, h2, h3, h4, h5, h6,
+      margin-bottom: 30px
+    blockquote
+      text-align: center
+    @media screen and (max-width: 768px)
+      padding-left: 0%
+      padding-right: 0%
+      blockquote
+        padding-left: 3%
+        padding-right: 3%
+        text-align: center
+
+  .screen-at-65, .highlight
+    padding-left: 15%
+    padding-right: 15%
+    list-style-position: inside
+    h1, h2, h3, h4, h5, h6,
+      margin-bottom: 30px
+    blockquote
+      text-align: center
+    @media screen and (max-width: 768px)
+      padding-left: 5%
+      padding-right: 5%
+      blockquote
+        padding-left: 3%
+        padding-right: 3%
+
+  .share
+    margin-top: 50px
+
+  .cv
+    margin-bottom: 150px
+
+/*
+ *    Disqus
+ *==========================================================================
+
+#disqus_thread
+  margin-top: 100px
+  margin-bottom: 100px
+
+  a
+    color: $green
+    text-decoration: none
+    &:visited
+      color: $green
+    &:hover
+      color: $green
