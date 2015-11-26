@@ -1,6 +1,4 @@
 
-## NOTES:
-
 ### LINKS
 
 https://pages.github.com/

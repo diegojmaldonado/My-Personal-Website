@@ -266,13 +266,31 @@ module.exports = function(grunt) {
         },
         copy: {
             server: {
-                files: [{
+                files: [
+                  {
                     expand: true,
                     dot: true,
                     cwd: '<%= app.source %>',
                     src: ['img/**/*'],
                     dest: '.tmp/<%= app.baseurl %>'
-                }]
+                },
+                {
+                    expand: true,
+                    cwd: '<%= app.source %>',
+                    src: ['fonts/**/*'],
+                    dest: '.tmp/<%= app.baseurl %>'
+                }
+              ]
+            },
+            dist: {
+                files: [
+                {
+                    expand: true,
+                    cwd: '<%= app.source %>',
+                    src: ['fonts/**/*'],
+                    dest: '<%= app.dist %>/<%= app.baseurl %>'
+                }
+              ]
             }
         },
         buildcontrol: {
@@ -298,6 +316,7 @@ module.exports = function(grunt) {
         grunt.task.run([
             'clean:server',
             'jekyll:server',
+            'copy:server',
             'sass:server',
             'autoprefixer:server',
             'uglify:server',
@@ -314,6 +333,7 @@ module.exports = function(grunt) {
     grunt.registerTask('build', [
         'clean:dist',
         'jekyll:dist',
+        'copy:dist',
         'imagemin',
         'svgmin',
         'sass:dist',

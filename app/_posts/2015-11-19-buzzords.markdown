@@ -28,7 +28,7 @@ El problema surge cuando producto del sobreuso y mal uso de estos recursos, conc
 Pero muy a pesar de ello *-creo-* sigue siendo útil entender lo que significan para saber cuando y como usarlas para que en la próxima reunión no nos convirtamos en el personaje principal de la campaña de Gladiator.
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch_popup?v=gWVZTpr-I_4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch_popup?v=yUZXDdVAUHc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## "Brillantina para mí":

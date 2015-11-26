@@ -14,7 +14,7 @@ paginate_path: '/page:num'
 markdown: kramdown
 
 # Site settings
-title: Blog • Diego J. Maldonado
+title: Blog Mobile • Diego J. Maldonado
 author: Diego J. Maldonado
 description: Marketing, Mobile, Tendencias, Desarrollo Mobile, Diseño y más por @diegojmaldonado desde Córdoba, Argentina.
 avatar: https://avatars3.githubusercontent.com/u/2761838?v=3&s=460

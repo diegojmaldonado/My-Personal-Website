@@ -5,6 +5,7 @@
 
   Author:         Diego Javier Maldonado
   About:          I'm a Digital Marketing Professional, UX lover & IOS Developer who is currently leading a mobile development team.
+  Acerca:         Soy un profesional orientado a resultados, ágil y emprendedor. Desarrollador IOS y Analista de Mercados. Siempre expectante de identificar necesidades, resolver nuevos desafíos y sobre todo de conocer gente interesante en el proceso.
   Twitter:        @diegojmaldonado
   Location:       Córdoba, Córdoba ARGENTINA
 
@@ -17,5 +18,5 @@
                   Bootstrap <http://getbootstrap.com/>
                   Adobe Creative Suite
                   Grunt <http://gruntjs.com>
-Optimized with:
+  Optimized with:
                   https://developers.google.com/speed/pagespeed/insights

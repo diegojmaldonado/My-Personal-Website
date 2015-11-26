@@ -14,7 +14,7 @@
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
-    <meta name="twitter:description" content="{{ page.excerpt }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
     {% endif %}
 
     <meta name="author" content="{{ site.author }}" />
@@ -28,15 +28,22 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@diegojmaldonado" />
     <meta name="twitter:creator" content="@diegojmaldonado" />
-    <meta name="twitter:image:src" content="{{ site.avatar }}" />
 
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {% if page.excerpt %}
+    <meta name="twitter:image:src" content="{{ page.image }}" />
+    {% else %}
+    <meta name="twitter:image:src" content="{{ site.avatar }}" />
+    {% endif %}
+
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 
     {% if page.image %}
-    <meta content="{{ site.image }}{{ page.image }}" property="og:image">
+    <meta property="og:image" content="{{ page.image }}">
     {% else %}
-    <meta content="{{ site.url }}/apple-touch-icon-precomposed.png" property="og:image">
+    <meta property="og:image" content="{{ site.avatar }}">
     {% endif %}
+
+    <meta property="og:locale:alternate" content="ar_AR" />
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
