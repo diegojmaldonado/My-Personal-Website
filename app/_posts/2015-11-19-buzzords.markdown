@@ -14,7 +14,7 @@ La industria del marketing es conocida por su vasto y efímero vocabulario compu
 
 Los marketineros están constantemente hablando de: **Awareness!, Storytelling! y Growth Hacking!**, pero alguna de estas palabras significa algo? Honestamente no, o no para mí.
 
-Una de mis favoritas: **Engagement**, en serio? que significa? descargas? tiempo de permanencia? retorno? comentarios? cantidad de veces que se comparte contenido en redes sociales? Es una combinación de algunas o todas esas cosas? Ok, bien, lo entiendo, si es una lista de metricas que necesitan ser medidas y analizadas, por favor simplemente podrían proveenos de ese listado? Pedir "metricas de Engagement" es como ir a un restaurant y cuando nos preguntan que queremos cenar, simplemente responder "comida". Por favor, especificidad.
+Una de mis favoritas: **Engagement**, en serio? que significa? descargas? retorno? cantidad de veces que se comparte contenido en redes sociales? Es una combinación de algunas o todas esas cosas? Ok, bien, lo entiendo, si es una lista de métricas que necesitan ser medidas y analizadas, por favor simplemente podrían proveenos de ese listado? Pedir "métricas de Engagement" es como ir a un restaurant y cuando nos preguntan que queremos cenar, simplemente responder "comida". Por favor, especificidad.
 
 ## Un mal necesario
 Lo admito, en más de una oportunidad me encontré usando una o varias de estas palabras en reuniones en las que me sentí ligeramente intimidado y quería parecer mucho más inteligente de lo que en verdad soy. Creo que todos alguna vez estuvimos en esa situación. Y aunque muchas de estas palabras de moda pueden transmitir un mensaje de conocimiento, entendimiento y relevancia en la industria del MKT, muy a menudo carecen de sustancia.
@@ -31,15 +31,17 @@ Pero muy a pesar de ello *-creo-* sigue siendo útil entender lo que significan 
   <iframe width="560" height="315" src="https://www.youtube.com/watch_popup?v=yUZXDdVAUHc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## "Brillantina para mí":
+## "Brillantina para mí"[*][2]:
+
+
 
 ##### Big Data:
 
 
-##### Content is King:
+##### Content is King / El contenido es el Rey:
 
 
-##### Customer Journey:
+##### Customer Journey / Mapa de la experiencia del cliente:
 
 
 ##### Disruptor:
@@ -48,10 +50,10 @@ Pero muy a pesar de ello *-creo-* sigue siendo útil entender lo que significan 
 ##### Emoji:
 
 
-##### Gamification:
+##### Gamification / Gamificación:
 
 
-##### Guru / Ninja / Grand Master / RockStar:
+##### Guru / Ninja / Master / RockStar:
 
 
 ##### Influencer:
@@ -60,7 +62,7 @@ Pero muy a pesar de ello *-creo-* sigue siendo útil entender lo que significan 
 ##### Millennials:
 
 
-##### Omnichannel Marketing:
+##### Omnichannel Marketing / Marketing Omni-Canal:
 
 
 ##### Plataforma:
@@ -78,6 +80,9 @@ Pero muy a pesar de ello *-creo-* sigue siendo útil entender lo que significan 
 ##### SoLoMo:
 
 
+##### Unicornio:
+
 
 
 [1]: http://www.bullshitbingo.net/cards/buzzword/
+[2]: https://www.youtube.com/watch?v=9WictR6WJt8

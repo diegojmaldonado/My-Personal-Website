@@ -25,3 +25,7 @@ email: diegojmaldonado@gmail.com
 # Tracking variables
 disqus: diegojmaldonado
 google_analytics: UA-45205112-1
+
+# Sitemaps for GitHub Pages
+gems:
+  - jekyll-sitemap
