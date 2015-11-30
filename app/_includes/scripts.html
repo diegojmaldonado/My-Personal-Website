@@ -57,29 +57,9 @@
 <!-- Structured Data -->
 
 <script type="application/ld+json">
-{ "@context" : "http://schema.org",
-  "@type" : "Organization",
-  "name" : "{{ site.author }}",
-  "url" : "{{ site.url }}",
-  "logo": "{{ site.avatar }}",
-  "sameAs" : [ "twitter.com/diegojmaldonado",
-    "https://www.linkedin.com/in/diegojmaldonado",
-    "https://github.com/diegojmaldonado"]
-    }
+{ "@context" : "http://schema.org","@type" : "Organization","name" : "{{ site.author }}","url" : "{{ site.url }}","logo": "{{ site.avatar }}","sameAs" : ["twitter.com/diegojmaldonado","https://www.linkedin.com/in/diegojmaldonado","https://github.com/diegojmaldonado"]}
 </script>
 
 <script type="application/ld+json">
-{ "@context": "http://schema.org",
-  "@type": "BlogPosting",
-  "headline": "{% if page.title %}{{ page.title }}{% else %}Un blog de Marketing, Tecnología, Tendencias y Desarrollo de Apps.{% endif %}",
-  "alternativeHeadline": "{{ site.title }}",
-  "articleSection": "{{ page.category }}",
-  "image": [
-    "{{ page.image }}",
-    "{{ site.avatar }}"
-  ],
-  "datePublished": "{% if page.date %}{{ page.date }}{% else %}2015-11-19T19:52:13-03:00{% endif %}",
-  "description": "{{ site.description }}",
-  "articleBody": "{{ page.excerpt| strip_html }}"
-}
+{ "@context": "http://schema.org","@type": "BlogPosting","headline": "{% if page.title %}{{ page.title }}{% else %}Un blog de Marketing, Tecnología, Tendencias y Desarrollo de Apps.{% endif %}","alternativeHeadline": "{{ site.title }}","articleSection": "{{ page.category }}","image": ["{{ page.image }}","{{ site.avatar }}"],"datePublished": "{% if page.date %}{{ page.date }}{% else %}2015-11-19T19:52:13-03:00{% endif %}","description": "{{ site.description }}","articleBody": "{{ page.excerpt| strip_html }}"}
 </script>

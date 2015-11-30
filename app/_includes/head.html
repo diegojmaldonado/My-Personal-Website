@@ -4,56 +4,33 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:type" content="article" />
-
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}" />
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
-    <meta name="twitter:description" content="{{ site.description }}" />
-    {% endif %}
-
-    {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}">
-    {% else %}
-    <meta property="og:image" content="{{ site.avatar }}">
-    {% endif %}
-    
     <meta name="author" content="{{ site.author }}" />
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt| strip_html }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}IOS Developer; Programador; Mobile; Marketing Digital; Tendencias; Tecnología; Project Manager; Diseño; UX{% endif %}" />
 
-    {% if page.keywords %}
-    <meta name="keywords" content="{{ page.keywords }}" />
-    {% else %}
-    <meta name="keywords" content="IOS Developer, Programador," />
-    {% endif %}
+    <!-- Open graph tags -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt| strip_html }}{% else %}{{ site.description }}{% endif %}" />
+    <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.avatar }}{% endif %}">
+    <meta property="og:locale:alternate" content="ar_AR" />
 
+    <!-- Twitter cards tags -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@diegojmaldonado" />
     <meta name="twitter:creator" content="@diegojmaldonado" />
-
-    {% if page.excerpt %}
-    <meta name="twitter:image:src" content="{{ page.image }}" />
-    {% else %}
-    <meta name="twitter:image:src" content="{{ site.avatar }}" />
-    {% endif %}
-
-    <meta property="og:locale:alternate" content="ar_AR" />
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt| strip_html }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="twitter:image:src" content="{% if page.excerpt %}{{ page.image }}{% else %}{{ site.avatar }}{% endif %}" />
 
     <!-- Hint to Search Engines -->
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-    <link rel="shortcut icon" href="{{ site.baseurl }}/img/favicon/favicon.ico">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ "/img/favicon/favicon.ico" | prepend: site.baseurl }}">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
