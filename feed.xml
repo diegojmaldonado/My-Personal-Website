@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Mobile • Diego J. Maldonado</title>
+    <description>Marketing, Mobile, Tendencias, Desarrollo Mobile, Diseño y más por @diegojmaldonado desde Córdoba, Argentina.</description>
+    <link>http://diegojmaldonado.com/</link>
+    <atom:link href="http://diegojmaldonado.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 Dec 2015 17:32:20 -0300</pubDate>
+    <lastBuildDate>Tue, 01 Dec 2015 17:32:20 -0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Perfect - Crea un backend en Swift.</title>
+        <description>&lt;p&gt;Sí ya estas desarrollando Apps en Swift y necesitas un Backend; no hay necesidad de aprender un nuevo lenguaje. Perfect es la primera solución de nivel empresarial para escribir un backend completamente en #Swift&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Nov 2015 15:45:00 -0300</pubDate>
+        
+        <link href="http://diegojmaldonado.com/blog/swift-backend"/>
+        
+        <guid isPermaLink="true">http://diegojmaldonado.com/blog/swift-backend</guid>
+        
+        <category>Link externo</category>
+        
+        <category>IOS</category>
+        
+        <category>Swift</category>
+        
+        <category>Herramientas</category>
+        
+        <category>Desarrollo</category>
+        
+        
+        <category>desarrollo</category>
+        
+      </item>
+    
+      <item>
+        <title>Creá gráficos de barras &#39;bonitos&#39; con Chartico</title>
+        <description>
+</description>
+        <pubDate>Wed, 25 Nov 2015 18:45:00 -0300</pubDate>
+        
+        <link href="http://diegojmaldonado.com/blog/beautiful-bar-chart"/>
+        
+        <guid isPermaLink="true">http://diegojmaldonado.com/blog/beautiful-bar-chart</guid>
+        
+        <category>Link externo</category>
+        
+        <category>Herramientas</category>
+        
+        <category>Desarrollo</category>
+        
+        <category>Marketing</category>
+        
+        <category>Chart</category>
+        
+        <category>Gráficos</category>
+        
+        
+        <category>desarrollo</category>
+        
+      </item>
+    
+      <item>
+        <title>Marketing Buzzwords: Las palabras de moda que amamos odiar</title>
+        <description>&lt;p&gt;La industria del marketing es conocida por su vasto y efímero vocabulario compuesto por palabras y frases que rápidamente se convierten en una expresión de moda. Esta jerga recibe el nombre de “Buzzwords”, que no son más que palabras pegadizas, &lt;em&gt;principalmente, de procedencia anglosajona&lt;/em&gt; y que sirven como atajos conceptuales. Un ejemplo? Buzzwords.&lt;/p&gt;
+
+&lt;p&gt;Los marketineros están constantemente hablando de: &lt;strong&gt;Awareness!, Storytelling! y Growth Hacking!&lt;/strong&gt;, pero alguna de estas palabras significa algo? Honestamente no, o no para mí.&lt;/p&gt;
+
+&lt;p&gt;Una de mis favoritas: &lt;strong&gt;Engagement&lt;/strong&gt;, en serio? que significa? descargas? retorno? cantidad de veces que se comparte contenido en redes sociales? Es una combinación de algunas o todas esas cosas? Ok, bien, lo entiendo, si es una lista de métricas que necesitan ser medidas y analizadas, por favor simplemente podrían proveenos de ese listado? Pedir “métricas de Engagement” es como ir a un restaurant y cuando nos preguntan que queremos cenar, simplemente responder “comida”. Por favor, especificidad.&lt;/p&gt;
+
+&lt;h2 id=&quot;un-mal-necesario&quot;&gt;Un mal necesario&lt;/h2&gt;
+&lt;p&gt;Lo admito, en más de una oportunidad me encontré usando una o varias de estas palabras en reuniones en las que me sentí ligeramente intimidado y quería parecer mucho más inteligente de lo que en verdad soy. Creo que todos alguna vez estuvimos en esa situación. Y aunque muchas de estas palabras de moda pueden transmitir un mensaje de conocimiento, entendimiento y relevancia en la industria del MKT, muy a menudo carecen de sustancia.&lt;/p&gt;
+
+&lt;p&gt;El problema surge cuando producto del sobreuso y mal uso de estos recursos, conceptos como el de &lt;strong&gt;Big Data&lt;/strong&gt; pierden su significado. Ojo! no es que sea un purista, pero es que incluso existe un juego llamado &lt;a href=&quot;http://www.bullshitbingo.net/cards/buzzword/&quot;&gt;Buzzword Bingo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;screen-at-85&quot;&gt;
+&lt;img src=&quot;http://diegojmaldonado.com/img/dilbert_buzzword_bingo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Pero muy a pesar de ello &lt;em&gt;-creo-&lt;/em&gt; sigue siendo útil entender lo que significan para saber cuando y como usarlas para que en la próxima reunión no nos convirtamos en el personaje principal de la campaña de Gladiator.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrapper&quot;&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/watch_popup?v=yUZXDdVAUHc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;brillantina-para-m2&quot;&gt;“Brillantina para mí”&lt;a href=&quot;https://www.youtube.com/watch?v=9WictR6WJt8&quot;&gt;*&lt;/a&gt;:&lt;/h2&gt;
+
+&lt;h5 id=&quot;big-data&quot;&gt;Big Data:&lt;/h5&gt;
+
+&lt;h5 id=&quot;content-is-king--el-contenido-es-el-rey&quot;&gt;Content is King / El contenido es el Rey:&lt;/h5&gt;
+
+&lt;h5 id=&quot;customer-journey--mapa-de-la-experiencia-del-cliente&quot;&gt;Customer Journey / Mapa de la experiencia del cliente:&lt;/h5&gt;
+
+&lt;h5 id=&quot;disruptor&quot;&gt;Disruptor:&lt;/h5&gt;
+
+&lt;h5 id=&quot;emoji&quot;&gt;Emoji:&lt;/h5&gt;
+
+&lt;h5 id=&quot;gamification--gamificacin&quot;&gt;Gamification / Gamificación:&lt;/h5&gt;
+
+&lt;h5 id=&quot;guru--ninja--master--rockstar&quot;&gt;Guru / Ninja / Master / RockStar:&lt;/h5&gt;
+
+&lt;h5 id=&quot;influencer&quot;&gt;Influencer:&lt;/h5&gt;
+
+&lt;h5 id=&quot;millennials&quot;&gt;Millennials:&lt;/h5&gt;
+
+&lt;h5 id=&quot;omnichannel-marketing--marketing-omni-canal&quot;&gt;Omnichannel Marketing / Marketing Omni-Canal:&lt;/h5&gt;
+
+&lt;h5 id=&quot;plataforma&quot;&gt;Plataforma:&lt;/h5&gt;
+
+&lt;h5 id=&quot;retargeting-remarketing&quot;&gt;Retargeting, Remarketing:&lt;/h5&gt;
+
+&lt;h5 id=&quot;roi-revenue-y-dems-trminos-financieros&quot;&gt;ROI, Revenue y demás términos financieros:&lt;/h5&gt;
+
+&lt;h5 id=&quot;social-commerce&quot;&gt;Social Commerce:&lt;/h5&gt;
+
+&lt;h5 id=&quot;solomo&quot;&gt;SoLoMo:&lt;/h5&gt;
+
+&lt;h5 id=&quot;unicornio&quot;&gt;Unicornio:&lt;/h5&gt;
+
+</description>
+        <pubDate>Thu, 19 Nov 2015 19:52:13 -0300</pubDate>
+        
+        <link href="http://diegojmaldonado.com/blog/buzzords"/>
+        
+        <guid isPermaLink="true">http://diegojmaldonado.com/blog/buzzords</guid>
+        
+        <category>Marketing</category>
+        
+        <category>Funny</category>
+        
+        
+        <category>marketing</category>
+        
+      </item>
+    
+  </channel>
+</rss>
