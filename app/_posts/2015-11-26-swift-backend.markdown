@@ -3,7 +3,7 @@ layout:       external
 author:       diego
 title:        "Perfect - Crea un backend en Swift."
 image:        
-preview:      https://pbs.twimg.com/profile_images/664557096952688640/cRw_6F1x_400x400.jpg
+preview:      http://diegojmaldonado.com/img/external/perfectSwift.jpg
 external_url: http://perfect.org/
 date:         2015-11-26 18:45:00
 category:     [Desarrollo]

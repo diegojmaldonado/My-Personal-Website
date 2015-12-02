@@ -18,11 +18,13 @@
     <meta property="og:locale:alternate" content="ar_AR" />
 
     <!-- Twitter cards tags -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@diegojmaldonado" />
-    <meta name="twitter:creator" content="@diegojmaldonado" />
-    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt| strip_html }}{% else %}{{ site.description }}{% endif %}" />
+    <!-- <meta name="twitter:card" content="summary" /> -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@diegojmaldonado" />    
     <meta name="twitter:image:src" content="{% if page.excerpt %}{{ page.image }}{% else %}{{ site.avatar }}{% endif %}" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt| strip_html }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="twitter:creator" content="@diegojmaldonado" />
 
     <!-- Hint to Search Engines -->
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
