@@ -5,38 +5,64 @@
     <description>Marketing, Mobile, Tendencias, Desarrollo Mobile, Diseño y más por @diegojmaldonado desde Córdoba, Argentina.</description>
     <link>http://www.diegojmaldonado.com/</link>
     <atom:link href="http://www.diegojmaldonado.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Dec 2015 21:23:28 -0300</pubDate>
-    <lastBuildDate>Tue, 01 Dec 2015 21:23:28 -0300</lastBuildDate>
+    <pubDate>Tue, 01 Dec 2015 21:28:17 -0300</pubDate>
+    <lastBuildDate>Tue, 01 Dec 2015 21:28:17 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Swift Backend</title>
+        <title>Perfect - Crea un backend en Swift.</title>
         <description>&lt;p&gt;Sí ya estas desarrollando Apps en Swift y necesitas un Backend; no hay necesidad de aprender un nuevo lenguaje. Perfect es la primera solución de nivel empresarial para escribir un backend completamente en #Swift&lt;/p&gt;
 </description>
-        <pubDate>Thu, 26 Nov 2015 00:00:00 -0300</pubDate>
+        <pubDate>Thu, 26 Nov 2015 15:45:00 -0300</pubDate>
         
         <link href="http://www.diegojmaldonado.com/blog/swift-backend"/>
         
         <guid isPermaLink="true">http://www.diegojmaldonado.com/blog/swift-backend</guid>
         
+        <category>Link externo</category>
+        
+        <category>IOS</category>
+        
+        <category>Swift</category>
+        
+        <category>Herramientas</category>
+        
+        <category>Desarrollo</category>
+        
+        
+        <category>desarrollo</category>
         
       </item>
     
       <item>
-        <title>Beautiful Bar Chart</title>
+        <title>Creá gráficos de barras &#39;bonitos&#39; con Chartico</title>
         <description>
 </description>
-        <pubDate>Thu, 26 Nov 2015 00:00:00 -0300</pubDate>
+        <pubDate>Wed, 25 Nov 2015 18:45:00 -0300</pubDate>
         
         <link href="http://www.diegojmaldonado.com/blog/beautiful-bar-chart"/>
         
         <guid isPermaLink="true">http://www.diegojmaldonado.com/blog/beautiful-bar-chart</guid>
         
+        <category>Link externo</category>
+        
+        <category>Herramientas</category>
+        
+        <category>Desarrollo</category>
+        
+        <category>Marketing</category>
+        
+        <category>Chart</category>
+        
+        <category>Gráficos</category>
+        
+        
+        <category>desarrollo</category>
         
       </item>
     
       <item>
-        <title>Buzzords</title>
+        <title>Marketing Buzzwords: Las palabras de moda que amamos odiar</title>
         <description>&lt;p&gt;La industria del marketing es conocida por su vasto y efímero vocabulario compuesto por palabras y frases que rápidamente se convierten en una expresión de moda. Esta jerga recibe el nombre de “Buzzwords”, que no son más que palabras pegadizas, &lt;em&gt;principalmente, de procedencia anglosajona&lt;/em&gt; y que sirven como atajos conceptuales. Un ejemplo? Buzzwords.&lt;/p&gt;
 
 &lt;p&gt;Los marketineros están constantemente hablando de: &lt;strong&gt;Awareness!, Storytelling! y Growth Hacking!&lt;/strong&gt;, pero alguna de estas palabras significa algo? Honestamente no, o no para mí.&lt;/p&gt;
@@ -49,7 +75,7 @@
 &lt;p&gt;El problema surge cuando producto del sobreuso y mal uso de estos recursos, conceptos como el de &lt;strong&gt;Big Data&lt;/strong&gt; pierden su significado. Ojo! no es que sea un purista, pero es que incluso existe un juego llamado &lt;a href=&quot;http://www.bullshitbingo.net/cards/buzzword/&quot;&gt;Buzzword Bingo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;screen-at-85&quot;&gt;
-&lt;img src=&quot;&#39;http://www.diegojmaldonado.com&#39;/img/dilbert_buzzword_bingo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://www.diegojmaldonado.com/img/dilbert_buzzword_bingo.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Pero muy a pesar de ello &lt;em&gt;-creo-&lt;/em&gt; sigue siendo útil entender lo que significan para saber cuando y como usarlas para que en la próxima reunión no nos convirtamos en el personaje principal de la campaña de Gladiator.&lt;/p&gt;
@@ -93,12 +119,18 @@
 &lt;h5 id=&quot;unicornio&quot;&gt;Unicornio:&lt;/h5&gt;
 
 </description>
-        <pubDate>Thu, 19 Nov 2015 00:00:00 -0300</pubDate>
+        <pubDate>Thu, 19 Nov 2015 19:52:13 -0300</pubDate>
         
         <link href="http://www.diegojmaldonado.com/blog/buzzords"/>
         
         <guid isPermaLink="true">http://www.diegojmaldonado.com/blog/buzzords</guid>
         
+        <category>Marketing</category>
+        
+        <category>Funny</category>
+        
+        
+        <category>marketing</category>
         
       </item>
     
