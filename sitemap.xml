@@ -13,7 +13,7 @@
     <lastmod>2015-11-19T19:52:13-03:00</lastmod>
   </url>
   <url>
-    <loc>http://diegojmaldonado.com/404.html</loc>
+    <loc>http://diegojmaldonado.com/404</loc>
   </url>
   <url>
     <loc>http://diegojmaldonado.com/about/</loc>
@@ -27,4 +27,13 @@
   <url>
     <loc>http://diegojmaldonado.com/marketing/</loc>
   </url>
+    <url>
+      <loc>http://diegojmaldonado.com/blog/buzzords</loc>
+    </url>
+    <url>
+      <loc>http://diegojmaldonado.com/blog/beautiful-bar-chart</loc>
+    </url>
+    <url>
+      <loc>http://diegojmaldonado.com/blog/swift-backend</loc>
+    </url>
 </urlset>
